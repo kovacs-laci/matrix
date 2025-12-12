@@ -86,8 +86,8 @@ https://kovacslaci.hu/tananyagok/docs/git-gyorstalpalo
 - Írja ki egy táblázatban:  
   - soronként a legnagyobb és a legkisebb számot,
   - a sorban található számok összegét,  
-  - a prím számok összegét soronként.  
-pl: 
+  - a prím számok összegét soronként, pl: 
+
 | sor | min | max | sum | prime sum |
 |-----|-----|-----|-----|-----------|
 | 1.  |     |     |     |           |
