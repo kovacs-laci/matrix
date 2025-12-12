@@ -88,7 +88,7 @@ https://kovacslaci.hu/tananyagok/docs/git-gyorstalpalo
   - a sorban található számok összegét,  
   - a prím számok összegét soronként.  
 pl: 
-	| sor | min | max | sum | prime sum |
-	-------------------------------------
-	|  1. |     |     |     |           |
-	|  2. |     |     |     |           |
+| sor | min | max | sum | prime sum |
+|-----|-----|-----|-----|-----------|
+| 1.  |     |     |     |           |
+| 2.  |     |     |     |           |
