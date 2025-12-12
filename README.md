@@ -29,8 +29,8 @@ https://kovacslaci.hu/tananyagok/docs/git-gyorstalpalo
 ---
 
 ## Értékelés
-- 1. feladat: 3
-- 1. és 2. feladat: 4
+- Első feladat: 3
+- Első **ÉS** második feladat: 4
 - Mindhárom feladat: 5
 
 ---
