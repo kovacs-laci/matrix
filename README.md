@@ -30,19 +30,21 @@ https://kovacslaci.hu/tananyagok/docs/git-gyorstalpalo
 
 ## Értékelés
 - Első feladat: 3
-- Első **ÉS** második feladat: 4
-- Mindhárom feladat: 5
+- Második feladat: 4
+- Harmadik feladat: 5
 
 ---
 
 ## Feladatok
 
+A kapott kódot módosítsa a feladatnak megfelelően.
+
 ### 1. feladat
 - Töltsön fel egy 10x10-es mátrixot 0–99 közé eső számokkal és jelenítse meg.  
-- Emelje ki a legkisebb értékű mezőt zöld háttérrel és vastag fehér betűvel.  
-- Emelje ki a legnagyobb értékű mezőt piros háttérrel és vastag fehér betűvel.  
+- Emelje ki a legkisebb értékű mezőt zöld háttérrel és félkövér fehér betűvel.  
+- Emelje ki a legnagyobb értékű mezőt piros háttérrel és félkövér fehér betűvel.  
 - Emelje ki a páros számokat halványzöld háttérrel.  
-- Emelje ki a prím számokat magenta színnel és vastag betűtípussal. 
+- Emelje ki a prím számokat magenta színnel és félkövér betűtípussal. 
 - Írja ki a táblázatban szereplő számok összegét.
 - Írja ki a táblázatban szereplő hárommal osztható számok összegét. 
 - Módosítsa a láblécben kiírt nevet a saját nevére és zárójelben adja meg az osztályát.
@@ -51,10 +53,10 @@ https://kovacslaci.hu/tananyagok/docs/git-gyorstalpalo
 
 ### 2. feladat
 - Töltsön fel egy 10x10-es mátrixot véletlenszerűen 0–99 közé eső számokkal és jelenítse meg.  
-- Emelje ki a legkisebb értékű mezőt zöld háttérrel és vastag fehér betűvel.  
-- Emelje ki a legnagyobb értékű mezőt piros háttérrel és vastag fehér betűvel.  
+- Emelje ki a legkisebb értékű mezőt zöld háttérrel és félkövér fehér betűvel.  
+- Emelje ki a legnagyobb értékű mezőt piros háttérrel és félkövér fehér betűvel.  
 - Emelje ki a páros számokat halványzöld háttérrel.  
-- Emelje ki a prím számokat magenta színnel és vastag betűtípussal.   
+- Emelje ki a prím számokat magenta színnel és félkövér betűtípussal.   
 - Írja ki a táblázatban szereplő számok összegét.
 - Írja ki a táblázatban szereplő hárommal osztható számok összegét.
 - Módosítsa a láblécben kiírt nevet a saját nevére és zárójelben adja meg az osztályát.
@@ -69,10 +71,10 @@ https://kovacslaci.hu/tananyagok/docs/git-gyorstalpalo
 
 ### 3. feladat
 - Töltsön fel egy 10x10-es mátrixot véletlenszerűen 0–99 közé eső **egyedi** számokkal és jelenítse meg.
-- Emelje ki a legkisebb értékű mezőt zöld háttérrel és vastag fehér betűvel.  
-- Emelje ki a legnagyobb értékű mezőt piros háttérrel és vastag fehér betűvel.  
+- Emelje ki a legkisebb értékű mezőt zöld háttérrel és félkövér fehér betűvel.  
+- Emelje ki a legnagyobb értékű mezőt piros háttérrel és félkövér fehér betűvel.  
 - Emelje ki a páros számokat halványzöld háttérrel.  
-- Emelje ki a prím számokat magenta színnel és vastag betűtípussal.    
+- Emelje ki a prím számokat magenta színnel és félkövér betűtípussal.    
 - Írja ki, hogy melyik szám fordul elő benne legtöbbször, és hányszor. 
 - Írja ki a táblázatban szereplő hárommal osztható számok összegét.
 - Módosítsa a láblécben kiírt nevet a saját nevére és zárójelben adja meg az osztályát. 
@@ -88,7 +90,7 @@ https://kovacslaci.hu/tananyagok/docs/git-gyorstalpalo
   - a sorban található számok összegét,  
   - a prím számok összegét soronként, pl: 
 
-| sor | min | max | sum | prime sum |
+| sor | min | max | össz| prím össz |
 |-----|-----|-----|-----|-----------|
 | 1.  |     |     |     |           |
 | 2.  |     |     |     |           |

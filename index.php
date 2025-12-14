@@ -13,11 +13,6 @@ echo "A táblázatban szereplő számok összege: <br>";
 echo "A táblázatban szereplő, hárommal osztható számok összege: <br>";
 echo "<br>";
 
-$randomArray = $matrix->getRandomArr($n, $n);
-Html::table($n, $randomArray);
-
-$uniqueRandomArray = $matrix->getUniqueRandomArr($n, $n);
-Html::table($n, $uniqueRandomArray);
 
 Html::footer();
 
